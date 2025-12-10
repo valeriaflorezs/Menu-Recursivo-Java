@@ -12,16 +12,16 @@ El proyecto incluye la implementación recursiva de los siguientes 10 algoritmos
 
 | Operación | Nombre de la Función | Descripción Algorítmica |
 | :--- | :--- | :--- |
-| **1.** Multiplicación | `multiply(x, y)` | [cite_start]Realiza la multiplicación de $x$ por $y$ a través de sumas sucesivas recursivas. [cite: 4043, 4047] |
-| **2.** Sumatoria hasta K | `sumtok(k)` | [cite_start]Calcula la sumatoria de todos los números enteros desde 1 hasta $k$. [cite: 4051, 4055] |
-| **3.** Suma de Impares | `ADDODD(n)` | [cite_start]Calcula la suma de todos los números impares dentro del rango de 1 a $n$. [cite: 4059, 4064, 4066] |
-| **4.** Suma de Dígitos | `sumOfDigits(n)` | [cite_start]Descompone un número entero y retorna la suma de todos sus dígitos. [cite: 4071, 4075] |
-| **5.** Conteo de Caracteres | `countChr(str)` | [cite_start]Cuenta las ocurrencias de un carácter específico (definido internamente, ej. 'A') recorriendo la subcadena recursivamente. [cite: 4079, 4087] |
-| **6.** Potencia | `potencia(a, b)` | [cite_start]Calcula el resultado de elevar una base $a$ a un exponente $b$ ($a^b$) mediante multiplicaciones recursivas. [cite: 4090, 4094] |
-| **7.** Máximo Común Divisor | `mcd(a, b)` | [cite_start]Implementa el algoritmo de Euclides de forma recursiva para encontrar el Máximo Común Divisor entre dos números $a$ y $b$. [cite: 4098, 4102] |
-| **8.** Combinatoria | `combinacion(n, m)` | [cite_start]Calcula el coeficiente binomial $\binom{n}{m}$ utilizando la identidad recursiva de Pascal. [cite: 4106, 4110] |
-| **9.** Factorial | `factorial(n)` | [cite_start]Calcula el factorial de un número entero $n$ ($n!$). [cite: 4114, 4118] |
-| **10.** Fibonacci | `fibo(n)` | [cite_start]Calcula el $n$-ésimo número de la serie de Fibonacci. [cite: 4122, 4129] |
+| **1.** Multiplicación | `multiply(x, y)` | Realiza la multiplicación de $x$ por $y$ a través de sumas sucesivas recursivas. |
+| **2.** Sumatoria hasta K | `sumtok(k)` | Calcula la sumatoria de todos los números enteros desde 1 hasta $k$. |
+| **3.** Suma de Impares | `ADDODD(n)` | Calcula la suma de todos los números impares dentro del rango de 1 a $n$. |
+| **4.** Suma de Dígitos | `sumOfDigits(n)` | Descompone un número entero y retorna la suma de todos sus dígitos.|
+| **5.** Conteo de Caracteres | `countChr(str)` | Cuenta las ocurrencias de un carácter específico (definido internamente, ej. 'A') recorriendo la subcadena recursivamente. |
+| **6.** Potencia | `potencia(a, b)` | Calcula el resultado de elevar una base $a$ a un exponente $b$ ($a^b$) mediante multiplicaciones recursivas. |
+| **7.** Máximo Común Divisor | `mcd(a, b)` | Implementa el algoritmo de Euclides de forma recursiva para encontrar el Máximo Común Divisor entre dos números $a$ y $b$. |
+| **8.** Combinatoria | `combinacion(n, m)` | Calcula el coeficiente binomial $\binom{n}{m}$ utilizando la identidad recursiva de Pascal. |
+| **9.** Factorial | `factorial(n)` | Calcula el factorial de un número entero $n$ ($n!$). |
+| **10.** Fibonacci | `fibo(n)` | Calcula el $n$-ésimo número de la serie de Fibonacci. |
 
 ## 💻 Tecnologías
 
